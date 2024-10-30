@@ -1,0 +1,12 @@
+/* backend dashboard url */
+a.dashboard-url {
+    border: 1px solid #dadae5;
+    background: #2d5191;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.dashboard-url-block {
+    padding: 10px 0;
+} 
